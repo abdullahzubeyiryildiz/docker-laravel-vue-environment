@@ -10,4 +10,4 @@ How to create Laravel, Vue, Mysql, Nginx Using Docker. I have experienced Docker
 - php 7 - Laravel8
 - php 8 - Laravel9
 - Mysql
-- vue3
+- Vue3
